@@ -1,4 +1,4 @@
-### Hi there 👋
+ Olá! 👋
 
 Eu sou o Sérgio Patricio,sou um Programador Front End,atualmente estou aprendendo e criando projetos por meio dos códigos:
 <br>
