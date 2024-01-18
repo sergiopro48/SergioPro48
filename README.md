@@ -11,3 +11,4 @@ Eu sou o Sérgio Patricio,sou um Programador Front End,atualmente estou aprenden
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt=javaScript-logo />
 - <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt=React-logo />
   
+**Conecte-se comigo:**
