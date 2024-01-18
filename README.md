@@ -12,3 +12,6 @@ Eu sou o Sérgio Patricio,sou um Programador Front End,atualmente estou aprenden
 - <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt=React-logo />
   
 **Conecte-se comigo:**
+<br>
+<a href="https://www.linkedin.com/in/sergiopro4813/">
+<img align="left" alt="linkedin" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
