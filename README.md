@@ -24,4 +24,4 @@ Eu sou o Sérgio Patricio,sou um Programador Front End,atualmente estou aprenden
  <a href="https://www.instagram.com/sergio_santospp/">
   <img align="left" alt="instagram" width="110px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   
-  <a href="https://mail.google.com/mail/u/0/#inbox/">
+ 
