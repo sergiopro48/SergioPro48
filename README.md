@@ -1,6 +1,10 @@
 
  
  Olá!😃
+ <br>
+
+ 
+  ![](https://komarev.com/ghpvc/?username=your-github-sergiopro48)
 
 Eu sou o Sérgio Patricio,sou um Programador Front End,atualmente estou aprendendo e criando projetos por meio dos códigos:
 <br>
@@ -23,5 +27,16 @@ Eu sou o Sérgio Patricio,sou um Programador Front End,atualmente estou aprenden
 
  <a href="https://www.instagram.com/sergio_santospp/">
   <img align="left" alt="instagram" width="110px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <br>
+  <br>
   
+
+  [![ Sérgio Estatísticas](https://github-readme-stats.vercel.app/api?username=SergioPro48)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiopro48)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+ 
  
