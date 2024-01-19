@@ -36,6 +36,12 @@ Eu sou o Sérgio Patricio,sou um Programador Front End,atualmente estou aprenden
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiopro48)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+ 
+ 
+ 
+  
+  
   
   
  
