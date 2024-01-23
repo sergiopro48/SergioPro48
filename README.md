@@ -6,7 +6,7 @@
  
   ![](https://komarev.com/ghpvc/?username=your-github-sergiopro48)
 
-Eu sou o Sérgio Patricio,sou um Programador Front End,atualmente estou aprendendo e criando projetos por meio dos códigos:
+Eu sou o Sérgio Patricio,sou um Programador Front End e atualmente estou aprendendo e também criando projetos por meio dos códigos:
 <br>
 <br>
 
