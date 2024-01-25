@@ -1,12 +1,10 @@
 <img src="https://github.com/ritik307/ritik307/blob/main/images/header_.png?raw=true" />
  
- Olá!😃
- <br>
-
- 
+ ## Olá,Seja bem-vindo ao meu Github!😃
+  
   ![](https://komarev.com/ghpvc/?username=your-github-sergiopro48)
 
-Eu sou o Sérgio Patricio,sou um Programador Front End e atualmente estou cursando e também criando projetos por meio dos códigos:
+Eu sou o Sérgio Patricio,e este github teve início no curso de "Desenvolvedor Web" oferecido pela instituição de ensino DevClub e atualmente estou aprendendo e também criando projetos por meio dos códigos:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" alt=html-logo width="80px" />
@@ -20,6 +18,9 @@ Eu sou o Sérgio Patricio,sou um Programador Front End e atualmente estou cursan
  <img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  <a href="https://www.instagram.com/sergio_santospp/">
   <img align="left" alt="instagram" width="110px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://mail.google.com/mail/u/0/#inbox/">
+  <img align="left" alt="Gmail" height="25px" width="110px"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    
   <br>
   <br>
   
