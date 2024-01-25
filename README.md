@@ -18,8 +18,7 @@ Eu sou o Sérgio Patricio,e este github teve início no curso de "Desenvolvedor 
  <img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  <a href="https://www.instagram.com/sergio_santospp/">
   <img align="left" alt="instagram" width="110px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <a href="https://mail.google.com/mail/u/0/#inbox/">
-  <img align="left" alt="Gmail" height="25px" width="110px"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
     
   <br>
   <br>
