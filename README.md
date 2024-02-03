@@ -1,4 +1,4 @@
-<img src="https://github.com/ritik307/ritik307/blob/main/images/header_.png?raw=true" />
+
  
  ## Olá,Seja bem-vindo ao meu Github!😃
   
