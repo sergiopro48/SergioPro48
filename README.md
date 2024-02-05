@@ -1,4 +1,4 @@
-<img src="https://github.com/sergiopro48/We-Care-Responsivo-/blob/main/assets/Blue%20Futuristic%20Technology%20LinkedIn%20Banner%20.png?raw=true"/>
+<img src="https://github.com/sergiopro48/assest/blob/main/Blue%20Futuristic%20Technology%20LinkedIn%20Banner%20.png?raw=true"/>
  
  ## Olá,Seja bem-vindo ao meu Github!😃
   
